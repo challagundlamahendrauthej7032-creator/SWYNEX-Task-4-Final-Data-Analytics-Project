@@ -103,10 +103,10 @@ The dashboard includes:
 ![Data set](dashboard.png)
 
 ### Task 1 – Data Cleaning
-![Task 1 Data Cleaning](dashboard.png)
+![Task 1 Data Cleaning](dashboard1.png)
 
 ### Task 2 – Exploratory Data Analysis
-![Task 2 EDA](dashboard.png)
+![Task 2 EDA](dashboard2.png)
 
 ### Task 3 – Power BI Dashboard
-![Task 3 Power BI Dashboard](dashboard.png)
+![Task 3 Power BI Dashboard](dashboard3.png)
