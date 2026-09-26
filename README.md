@@ -96,3 +96,7 @@ The dashboard includes:
 **Organization:** SWYNEX Technologies  
 **Domain:** Data Analytics  
 **Project:** Final Data Analytics Project
+
+## Dashboard Preview
+
+![Titanic Interactive Dashboard](dashboard.png)
