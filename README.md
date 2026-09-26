@@ -97,6 +97,16 @@ The dashboard includes:
 **Domain:** Data Analytics  
 **Project:** Final Data Analytics Project
 
-## Dashboard Preview
+## Project Screenshots
 
-![Titanic Interactive Dashboard](dashboard.png)
+### Data set
+![Data set](dashboard.png)
+
+### Task 1 – Data Cleaning
+![Task 1 Data Cleaning](dashboard (1).png)
+
+### Task 2 – Exploratory Data Analysis
+![Task 2 EDA](dashboard (2).png)
+
+### Task 3 – Power BI Dashboard
+![Task 3 Power BI Dashboard](dashboard (3).png)
